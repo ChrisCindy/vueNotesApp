@@ -1,5 +1,5 @@
 #vueNoteApp
-## 基于 Vue.js + Vuex + ES6 + BootStrap
+## 基于 Vue.js + Vuex + Webpack + ES6 + BootStrap
 ## 仿coligo教程编写
 ## 如何运行
 
